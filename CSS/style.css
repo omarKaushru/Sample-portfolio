@@ -1,3 +1,79 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+.banner-container{
+background-color:#C9C9C9;
+}
+.banner-column{
+    background-color: #8D8D8D;
+}
+.navbar-container{
+    background-color: #252C37;
+}
+
+.about-container
+{
+    background-color: #01BBBC;
+}
+.education-container
+{
+    background-color: #EEEEEE;
+}
+.bg-redtype{
+    background-color: #FB857F;
+}
+
+.bg-redtype:hover{
+    background-color: #FB857F;
+    color: black!important; /* prioritize*/
+}
+.redtype-color{
+    color: #FB857F;
+}
+.circle{
+    background-color: #FB857F;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.project-container{
+    background-color: #3CACC9;
+    
+}
+
+.image-size{
+    width: 250px;
+    height: 250px;
+}
+.portfolio-container{
+    background-color: #FFFFFF;
+}
+.portfolio{
+    color: red;
+}
+.form-container{
+    background-color: #474D5D;
+}
+.inner-form{
+    background-color: #585F76;
+}
+.footer{
+    background-color: #2CB2E0;
+}
+.circleICON{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color: blue;
+}
+.circleICON:hover{
+    background-color: black;
+
+}
